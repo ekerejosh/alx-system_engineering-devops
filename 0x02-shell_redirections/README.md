@@ -7,3 +7,6 @@ Write a script that displays a confused smiley "(Ôo)'.
 2. Let's display a file
 mandatory
 Display the content of the /etc/passwd file.
+3. What about 2?
+mandatory
+Display the content of /etc/passwd and /etc/hosts
