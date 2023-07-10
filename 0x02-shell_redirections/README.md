@@ -16,3 +16,6 @@ Display the last 10 lines of /etc/passwd
 5. I'd prefer the first ones actually
 mandatory
 Display the first 10 lines of /etc/passwd
+6. Line #2
+mandatory
+Write a script that displays the third line of the file iacta.
