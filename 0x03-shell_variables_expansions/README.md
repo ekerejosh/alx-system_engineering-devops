@@ -32,3 +32,9 @@ Write a script that prints the result of POWER divided by DIVIDE, followed by a 
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 mandatory
 Write a script that displays the result of BREATH to the power LOVE
+11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+mandatory
+Write a script that converts a number from base 2 to base 10.
+
+The number in base 2 is stored in the environment variable BINARY
+The script should display the number in base 10, followed by a new line
